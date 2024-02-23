@@ -18,7 +18,7 @@ class mqConsumerInterface:
         self, binding_key: str, exchange_name: str, queue_name: str
     ) -> None:
         # Save parameters to class variables
-
+        
         # Call setupRMQConnection
         pass
 
